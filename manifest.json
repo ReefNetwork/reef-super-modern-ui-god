@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "これを入れるだけであら不思議超近代的なサーバーに変化します",
+        "name": "reef_super_modern_ui_god",
+        "uuid": "bb6e189d-232d-42c3-b575-db4decbaa06f",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            20
+        ]
+    },
+    "modules": [
+        {
+            "description": "Resource pack for custom item",
+            "type": "resources",
+            "uuid": "d855d8cd-7d4c-4612-9e5f-2ac9fbf21abb",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
