@@ -32,7 +32,7 @@
   "screen_exit_animation_pop_fade": {
     "anim_type": "alpha",
     "easing": "out_cubic",
-    "duration": 1.0,
+    "duration": 0.5,
     "from": 1.0,
     "to": 0.5,
     "play_event": "screen.exit_pop",
